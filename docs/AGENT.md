@@ -5,8 +5,9 @@
 ## Rules
 1. Output contract:
    - Return ONLY:
-     - `git diff --patch` for files changed/created
-     - Trimmed logs from `npm i`, `npm run dev`, `npm run build`
+   - `git diff --patch` for files changed/created
+    - Trimmed logs from `npm i`, `npm run dev`, `npm run build`
+    - Final line: `NEXT_STEPS: {"remaining": []}` JSON for unfinished tasks
    - No prose or placeholders
 
 2. Non-negotiables:
