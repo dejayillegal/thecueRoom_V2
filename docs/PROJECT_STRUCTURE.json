@@ -1,0 +1,120 @@
+{
+  "src": {
+    ".DS_Store": {
+      "size": 6148,
+      "mtime": 1755430833202.3892
+    },
+    "app": {
+      "audio": {
+        "analyser.ts": {
+          "size": 468,
+          "mtime": 1755431061677.2117
+        }
+      },
+      "auth": {
+        "LoginModal.test.tsx": {
+          "size": 937,
+          "mtime": 1755431161272.7886
+        },
+        "LoginModal.tsx": {
+          "size": 1872,
+          "mtime": 1755431159932.7935
+        }
+      },
+      "flags": {
+        "index.test.tsx": {
+          "size": 705,
+          "mtime": 1755431067681.1824
+        },
+        "index.tsx": {
+          "size": 1004,
+          "mtime": 1755431047437.2864
+        }
+      },
+      "layout": {
+        "AppShell.test.tsx": {
+          "size": 563,
+          "mtime": 1755431076657.1414
+        },
+        "AppShell.tsx": {
+          "size": 1160,
+          "mtime": 1755431053697.2527
+        },
+        "Logo.tsx": {
+          "size": 801,
+          "mtime": 1755431049797.2734
+        }
+      }
+    },
+    "index.css": {
+      "size": 358,
+      "mtime": 1755431249920.4917
+    },
+    "main.tsx": {
+      "size": 453,
+      "mtime": 1755431045105.3008
+    },
+    "styles": {
+      "tokens.css": {
+        "size": 730,
+        "mtime": 1755430833202.3892
+      }
+    }
+  },
+  "scripts": {
+    "build.sh": {
+      "size": 52,
+      "mtime": 1755430833202.3892
+    },
+    "dev.sh": {
+      "size": 130,
+      "mtime": 1755430833202.3892
+    },
+    "preview.sh": {
+      "size": 147,
+      "mtime": 1755430833202.3892
+    },
+    "setup-local.sh": {
+      "size": 562,
+      "mtime": 1755430833202.3892
+    }
+  },
+  "docs": {
+    "AGENT.md": {
+      "size": 1141,
+      "mtime": 1755430833198.3892
+    },
+    "CODEX_PROMPT.md": {
+      "size": 3933,
+      "mtime": 1755430833198.3892
+    },
+    "CONTRIBUTING.md": {
+      "size": 1939,
+      "mtime": 1755430833198.3892
+    },
+    "DEVELOPER_GUIDE.md": {
+      "size": 1954,
+      "mtime": 1755430833198.3892
+    },
+    "PROJECT_STRUCTURE.json": {
+      "size": 2362,
+      "mtime": 1755431232616.5488
+    },
+    "README.md": {
+      "size": 734,
+      "mtime": 1755430833198.3892
+    },
+    "UI-UX-DESIGN.md": {
+      "size": 1266,
+      "mtime": 1755430833198.3892
+    }
+  },
+  ".github": {
+    "workflows": {
+      "gh-pages.yml": {
+        "size": 962,
+        "mtime": 1755431085469.1042
+      }
+    }
+  }
+}
