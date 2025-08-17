@@ -139,5 +139,3 @@ npm run build
 - V2 Upgrade: Enhanced UI/UX, feature flag system, AI tooling, accessibility compliance.  
 
 ---
-
-**Frequencies aligned. Silence remains.**
