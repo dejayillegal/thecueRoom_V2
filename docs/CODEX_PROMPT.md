@@ -7,14 +7,14 @@ Objective
 - Implement missing pieces per non‑negotiables.
 - Deploy via GitHub Pages using the provided workflow.
 
-Source repos
-- Current app repo (target): https://github.com/dejayillegal/thecueRoom_V2
-- Baseline reference (design/header/logo only): https://github.com/dejayillegal/thecueroom
+Source repo
+- https://github.com/dejayillegal/thecueRoom_V2
 
 Output contract (strict)
 - Return ONLY:
   1) Unified diffs (`git diff --patch`) for each file changed/created
   2) Trimmed logs from: `npm ci` (or `npm i`), first `npm run dev`, and `npm run build`
+  3) Final line: `NEXT_STEPS: {"remaining": []}` JSON for unfinished tasks
 - No prose, no placeholders. All code must run.
 
 Non‑negotiables

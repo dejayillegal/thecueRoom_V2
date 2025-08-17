@@ -1,7 +1,7 @@
 # Developer Guide — thecueRoom_V2
 
 ## Overview
-**thecueRoom_V2** is the upgraded platform for DJs and creators. It builds on the [original repo](https://github.com/dejayillegal/thecueroom) with improved UI/UX, feature flags, and AI-enhanced modules.
+**thecueRoom_V2** is the upgraded platform for DJs and creators, featuring improved UI/UX, feature flags, and AI-enhanced modules.
 
 ## Architecture
 - **App**: Vite + React 18 + TypeScript (strict) + Tailwind + Radix + wouter

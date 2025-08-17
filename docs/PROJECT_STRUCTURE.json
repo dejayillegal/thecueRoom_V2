@@ -2,119 +2,167 @@
   "src": {
     ".DS_Store": {
       "size": 6148,
-      "mtime": 1755430833202.3892
+      "mtime": 1755433594298.3884
     },
     "app": {
       "audio": {
         "analyser.ts": {
           "size": 468,
-          "mtime": 1755431061677.2117
+          "mtime": 1755433594298.3884
         }
       },
       "auth": {
         "LoginModal.test.tsx": {
           "size": 937,
-          "mtime": 1755431161272.7886
+          "mtime": 1755433594298.3884
         },
         "LoginModal.tsx": {
           "size": 1872,
-          "mtime": 1755431159932.7935
+          "mtime": 1755433594302.3884
         }
       },
       "flags": {
         "index.test.tsx": {
           "size": 705,
-          "mtime": 1755431067681.1824
+          "mtime": 1755433594302.3884
         },
         "index.tsx": {
           "size": 1004,
-          "mtime": 1755431047437.2864
+          "mtime": 1755433594302.3884
         }
       },
       "layout": {
         "AppShell.test.tsx": {
           "size": 563,
-          "mtime": 1755431076657.1414
+          "mtime": 1755433594302.3884
         },
         "AppShell.tsx": {
           "size": 1160,
-          "mtime": 1755431053697.2527
+          "mtime": 1755433594302.3884
         },
         "Logo.tsx": {
           "size": 801,
-          "mtime": 1755431049797.2734
+          "mtime": 1755433594302.3884
         }
       }
     },
     "index.css": {
       "size": 358,
-      "mtime": 1755431249920.4917
+      "mtime": 1755433594302.3884
     },
     "main.tsx": {
       "size": 453,
-      "mtime": 1755431045105.3008
+      "mtime": 1755433594302.3884
     },
     "styles": {
       "tokens.css": {
         "size": 730,
-        "mtime": 1755430833202.3892
+        "mtime": 1755433594302.3884
       }
     }
   },
   "scripts": {
     "build.sh": {
       "size": 52,
-      "mtime": 1755430833202.3892
+      "mtime": 1755433594298.3884
     },
     "dev.sh": {
       "size": 130,
-      "mtime": 1755430833202.3892
+      "mtime": 1755433594298.3884
     },
     "preview.sh": {
       "size": 147,
-      "mtime": 1755430833202.3892
+      "mtime": 1755433594298.3884
     },
     "setup-local.sh": {
       "size": 562,
-      "mtime": 1755430833202.3892
+      "mtime": 1755433594298.3884
     }
   },
   "docs": {
     "AGENT.md": {
-      "size": 1141,
-      "mtime": 1755430833198.3892
+      "size": 1214,
+      "mtime": 1755433778946.2932
     },
     "CODEX_PROMPT.md": {
-      "size": 3933,
-      "mtime": 1755430833198.3892
+      "size": 3889,
+      "mtime": 1755433772450.269
     },
     "CONTRIBUTING.md": {
       "size": 1939,
-      "mtime": 1755430833198.3892
+      "mtime": 1755433594298.3884
     },
     "DEVELOPER_GUIDE.md": {
-      "size": 1954,
-      "mtime": 1755430833198.3892
+      "size": 1882,
+      "mtime": 1755433766882.2456
     },
     "PROJECT_STRUCTURE.json": {
-      "size": 2362,
-      "mtime": 1755431232616.5488
+      "size": 3203,
+      "mtime": 1755433787798.329
     },
     "README.md": {
       "size": 734,
-      "mtime": 1755430833198.3892
+      "mtime": 1755433594298.3884
     },
     "UI-UX-DESIGN.md": {
       "size": 1266,
-      "mtime": 1755430833198.3892
+      "mtime": 1755433594298.3884
     }
   },
   ".github": {
     "workflows": {
       "gh-pages.yml": {
-        "size": 962,
-        "mtime": 1755431085469.1042
+        "size": 1298,
+        "mtime": 1755433784742.317
       }
     }
+  },
+  "README.md": {
+    "size": 3363,
+    "mtime": 1755433763538.2432
+  },
+  "package.json": {
+    "size": 804,
+    "mtime": 1755433754062.2017
+  },
+  "package-lock.json": {
+    "size": 203752,
+    "mtime": 1755433805378.4
+  },
+  "vite.config.ts": {
+    "size": 369,
+    "mtime": 1755433594302.3884
+  },
+  "tailwind.config.js": {
+    "size": 930,
+    "mtime": 1755433594302.3884
+  },
+  "tsconfig.json": {
+    "size": 559,
+    "mtime": 1755433594302.3884
+  },
+  "index.html": {
+    "size": 704,
+    "mtime": 1755433594298.3884
+  },
+  "postcss.config.cjs": {
+    "size": 105,
+    "mtime": 1755433594298.3884
+  },
+  "postcss.config.js": {
+    "size": 81,
+    "mtime": 1755433594298.3884
+  },
+  "tsconfig.node.json": {
+    "size": 204,
+    "mtime": 1755433594302.3884
+  },
+  "vitest.config.ts": {
+    "size": 326,
+    "mtime": 1755433594302.3884
+  },
+  "vitest.setup.ts": {
+    "size": 334,
+    "mtime": 1755433594302.3884
   }
 }

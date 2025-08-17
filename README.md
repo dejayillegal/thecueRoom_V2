@@ -1,7 +1,6 @@
 # thecueRoom_V2
 
-TheCueRoom is a next-generation platform for artists, DJs, and creators — built with performance, accessibility, and design precision in mind.  
-This V2 release upgrades the [original repo](https://github.com/dejayillegal/thecueroom) with a modernized UI/UX, feature flags, AI-powered enhancements, and a future-proof architecture.
+TheCueRoom is a next-generation platform for artists, DJs, and creators — built with performance, accessibility, and design precision in mind. This V2 release delivers a modernized UI/UX, feature flags, AI-powered enhancements, and a future-proof architecture.
 
 ---
 
@@ -135,7 +134,6 @@ npm run build
 
 ## 🪐 Credits
 
-- V1 Source: [thecueroom](https://github.com/dejayillegal/thecueroom)  
-- V2 Upgrade: Enhanced UI/UX, feature flag system, AI tooling, accessibility compliance.  
+- V2 Upgrade: Enhanced UI/UX, feature flag system, AI tooling, accessibility compliance.
 
 ---
