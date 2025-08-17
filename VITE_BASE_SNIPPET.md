@@ -8,11 +8,4 @@ const base = process.env.GITHUB_ACTIONS ? `/${repo}/` : '/'
 export default defineConfig({
   plugins: [react()],
   base,
-  server: {
-    port: 5173,
-    open: true,
-  },
-  build: {
-    sourcemap: true,
-  },
 })

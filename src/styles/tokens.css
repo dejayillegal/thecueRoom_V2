@@ -1,0 +1,34 @@
+:root {
+  --color-bg: #0B0D0F;
+  --color-bg-alt: #0F1216;
+  --color-text: #E6E8EB;
+  --color-text-mute: #9BA1A6;
+  --color-accent-lime: #B2FF00;
+  --color-accent-purple: #8C4BFF;
+  --color-focus: #B2FF00;
+}
+
+/* Optional: light scheme (kept subtle) */
+@media (prefers-color-scheme: light) {
+  :root {
+    --color-bg: #0F1216;
+    --color-bg-alt: #12161B;
+    --color-text: #E6E8EB;
+    --color-text-mute: #A0A6AD;
+  }
+}
+
+/* Focus ring utility for non-TW consumers */
+.focus-ring {
+  outline: none;
+  box-shadow: 0 0 0 3px var(--color-focus);
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+    scroll-behavior: auto !important;
+  }
+}
